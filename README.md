@@ -1,7 +1,7 @@
-# leaflet-map-simple
+# Where I've Been 
 A simple Leaflet map template for new users to fork their own copy, edit, and host on GitHub Pages
 
-## Link to live map (replace with link to your site)
+## https://matiasl64.github.io/Where-I-Have-Been/
 https://handsondataviz.github.io/leaflet-map-simple/
 
 ## Create your own
